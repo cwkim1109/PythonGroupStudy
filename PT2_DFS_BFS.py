@@ -56,6 +56,9 @@ def recursive_function(i):
     recursive_function(i+1)
     print(i, '번째 재귀 함수를 종료합니다')
 
+recursive_function(1)
+
+
 # 탐색 알고리즘 DFS/BFS (pg134)
 
 # 인접 행렬 방식 예제
